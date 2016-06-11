@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>DJLocalPlayer_a.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>A158FB561D0AC25B00A68F1B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A158FB6C1D0AC64E00A68F1B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
